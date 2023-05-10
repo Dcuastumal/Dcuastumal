@@ -13,6 +13,6 @@ Skills: Angular / TypeScript /JavaScript / Html / Css / MongoDB / SQLite
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dcuastumal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/david.d.1406/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dcuastumal.github.io/Portfolio/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dcuastumal&show_icons=true)  
+
 
 
