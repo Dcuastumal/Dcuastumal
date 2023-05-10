@@ -2,7 +2,7 @@
 #### I am Front-end developer
 ![I am Front-end developer](https://wallpapercave.com/wp/wp9641787.jpg)
 
-Frontend developer passionate about learning and innovation, withsolid knowledge to provide IT solutions in public and privateorganizations, I am a person with a positiveattitude and strong work ethic, innovative thinking and a high level ofprofessional integrity in order to grow professionally applying my skillsday to day..
+Frontend developer passionate about learning and innovation, with solid knowledge to provide IT solutions in public and private organizations, I am a person with a positive attitude and strong work ethic, innovative thinking and a high level of professional integrity in order to grow professionally applying my skills day to day.
 
 Skills: Angular / TypeScript /JavaScript / Html / Css / MongoDB / SQLite
 
