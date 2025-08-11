@@ -8,7 +8,7 @@ Skills: Angular / TypeScript /JavaScript / Html / Css / MongoDB / SQLite
 
 - 🌱 I’m currently learning React 
 - 💬 Ask me about web development 
-- 📫 How to reach me: dacuastumal@unimayor.edu.co 
+- 📫 How to reach me: davidalejandrocuastumalbucheli@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dcuastumal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/david.d.1406/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dcuastumal.github.io/Portfolio/)  
