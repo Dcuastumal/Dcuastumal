@@ -109,7 +109,7 @@ I enjoy exploring datasets, discovering patterns, and transforming information i
 
 # 🌎 Connect With Me
 
-**<p align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221">
 <img src="https://skillicons.dev/icons?i=linkedin" />
