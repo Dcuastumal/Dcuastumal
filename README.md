@@ -1,18 +1,103 @@
-### Hi there 👋, my name is David
-#### I am Front-end developer
-![I am Front-end developer](https://wallpapercave.com/wp/wp9641787.jpg)
+<h1 align="center">
+Hi 👋, I'm David Cuastumal
+</h1>
 
-Frontend developer passionate about learning and innovation, with solid knowledge to provide IT solutions in public and private organizations, I am a person with a positive attitude and strong work ethic, innovative thinking and a high level of professional integrity in order to grow professionally applying my skills day to day.
+<h3 align="center">
+Data Analyst | Python • SQL • Power BI | Future Data Engineer
+</h3>
 
-Skills: Angular / TypeScript /JavaScript / Html / Css / MongoDB / SQLite
+<p align="center">
 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about web development 
-- 📫 How to reach me: davidalejandrocuastumalbucheli@gmail.com 
+Turning raw data into meaningful insights through analysis, visualization and automation.
 
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dcuastumal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/david.d.1406/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dcuastumal.github.io/Portfolio/)  
+---
 
+## 👨‍💻 About Me
 
+I'm a Data Analyst passionate about solving real-world business problems with data.
 
+Currently, I'm building strong foundations in:
 
+- 🐍 Python
+- 🗄 SQL
+- 📊 Data Analysis
+- 📈 Data Visualization
+- ⚙️ Data Engineering
+
+I enjoy transforming complex datasets into clear and actionable insights through exploratory analysis, storytelling, and automation.
+
+I believe that continuous learning and hands-on projects are the fastest way to become an exceptional data professional.
+
+---
+
+## 🚀 Current Focus
+
+- Building end-to-end Data Analysis projects
+- Improving SQL skills
+- Learning Data Engineering
+- Creating professional dashboards
+- Contributing to open-source projects
+
+---
+
+## 🛠 Tech Stack
+
+Python
+
+SQL
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Power BI
+
+Excel
+
+Git
+
+GitHub
+
+Jupyter Notebook
+
+VS Code
+
+---
+
+## 📂 Featured Projects
+
+📊 Restaurant Customer Analysis
+
+Exploratory Data Analysis using Python and Pandas.
+
+✔ Data Cleaning
+
+✔ Feature Engineering
+
+✔ Business Insights
+
+✔ Visualizations
+
+---
+
+More projects coming soon...
+
+---
+
+## 📈 GitHub Stats
+
+(iremos agregando los widgets)
+
+---
+
+## 🤝 Let's Connect
+
+LinkedIn
+
+Portfolio
+
+Email
