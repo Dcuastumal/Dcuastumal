@@ -86,33 +86,25 @@ I enjoy learning by building real-world projects that solve business problems th
 Open to collaboration, networking, and exciting data opportunities.
 </p>
 
-<table align="center" border="0">
-<tr>
+<p align="center">
 
-<td align="center">
 <a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
-</td>
 
-<td width="30"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="mailto:dacuastumal@unimayor.edu.co">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
-</td>
 
-<td width="30"></td>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
 <a href="https://TU_PORTAFOLIO.com">
-<img src="logo.png" width="55"/>
+  <img src="logo.png" width="55"/>
 </a>
-</td>
 
-</tr>
-</table>
+</p>
 
 ---
 
