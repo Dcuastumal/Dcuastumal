@@ -28,17 +28,17 @@ I enjoy learning by building real-world projects that solve business problems th
 ## 🚀 Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
