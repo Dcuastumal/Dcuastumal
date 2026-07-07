@@ -1,9 +1,6 @@
 <p align="center">
   <img src="banner.png" alt="David Cuastumal Banner" width="100%">
 </p>
-
-<h1 align="center">Hi 👋, I'm David Cuastumal</h1>
-
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=2500&color=5DA9FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Actionable+Insights" />
