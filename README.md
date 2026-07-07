@@ -9,7 +9,7 @@
 
 <p align="center">
 
-📊 Turning complex data into clear insights that drive smarter business decisions.
+Turning complex data into clear insights that drive smarter business decisions.
 
 </p>
 
