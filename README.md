@@ -114,16 +114,20 @@ I enjoy exploring datasets, discovering patterns, and transforming information i
 <a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:dacuastumal@unimayor.edu.co">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/Dcuastumal">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-</p>**
+</p>
+
+---
+
+</p align="center">
 
 *"Without data, you're just another person with an opinion."*
 
