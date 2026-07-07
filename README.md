@@ -53,7 +53,7 @@ I enjoy learning by building real-world projects that solve business problems th
 📊 <b>Power BI</b> &nbsp;&nbsp;•&nbsp;&nbsp;
 ⚙️ <b>Data Engineering</b>
 
-<br><br>
+<br>
 
 🔄 <b>ETL Pipelines</b> &nbsp;&nbsp;•&nbsp;&nbsp;
 ☁️ <b>Cloud Fundamentals</b>
