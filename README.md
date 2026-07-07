@@ -111,7 +111,7 @@ I enjoy exploring datasets, discovering patterns, and transforming information i
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/TU-LINKEDIN">
+<a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221/">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
@@ -127,7 +127,7 @@ I enjoy exploring datasets, discovering patterns, and transforming information i
 
 &nbsp;&nbsp;
 
-<a href="https://github.com/Dcuastumal">
+<a href="[https://github.com/Dcuastumal](https://github.com/Dcuastumal)">
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
