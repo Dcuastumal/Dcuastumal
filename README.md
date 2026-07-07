@@ -1,103 +1,146 @@
-<h1 align="center">
-Hi 👋, I'm David Cuastumal
-</h1>
+<p align="center">
+  <img src="banner.png" alt="David Cuastumal Banner" width="100%">
+</p>
 
-<h3 align="center">
-Data Analyst | Python • SQL • Power BI | Future Data Engineer
-</h3>
+<h1 align="center">Hi 👋, I'm David Cuastumal</h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=2500&color=5DA9FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Actionable+Insights" />
+  </a>
+</p>
 
 <p align="center">
 
-Turning raw data into meaningful insights through analysis, visualization and automation.
+Passionate about transforming raw data into actionable insights through analysis, visualization and automation.
 
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨🏻‍💻 About Me
 
-I'm a Data Analyst passionate about solving real-world business problems with data.
+I'm a **Data Analyst** passionate about solving real-world business problems using data.
 
-Currently, I'm building strong foundations in:
+My current focus is building end-to-end analytical projects using **Python, SQL and Power BI**, while expanding my knowledge in **Data Engineering**.
 
-- 🐍 Python
-- 🗄 SQL
-- 📊 Data Analysis
-- 📈 Data Visualization
-- ⚙️ Data Engineering
-
-I enjoy transforming complex datasets into clear and actionable insights through exploratory analysis, storytelling, and automation.
-
-I believe that continuous learning and hands-on projects are the fastest way to become an exceptional data professional.
+I enjoy exploring datasets, discovering patterns, and transforming information into meaningful business decisions.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Tech Stack
 
-- Building end-to-end Data Analysis projects
-- Improving SQL skills
-- Learning Data Engineering
-- Creating professional dashboards
-- Contributing to open-source projects
+### Languages
 
----
+<p align="center">
 
-## 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
-Python
+</p>
 
-SQL
+### Data Analytics
 
-Pandas
+<p align="center">
 
-NumPy
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,powerbi"/>
 
-Matplotlib
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
 
-Power BI
+</p>
 
-Excel
+### Tools
 
-Git
+<p align="center">
 
-GitHub
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-Jupyter Notebook
-
-VS Code
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 🌱 Currently Learning
 
-📊 Restaurant Customer Analysis
-
-Exploratory Data Analysis using Python and Pandas.
-
-✔ Data Cleaning
-
-✔ Feature Engineering
-
-✔ Business Insights
-
-✔ Visualizations
+- Advanced SQL
+- Power BI
+- Data Engineering
+- ETL Pipelines
+- Cloud Fundamentals
 
 ---
 
-More projects coming soon...
+# 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🍽 Restaurant Customer Analysis | Exploratory Data Analysis using Python & Pandas |
+| 📈 Sales Dashboard | Interactive Power BI Dashboard *(Coming Soon)* |
+| 🗄 SQL Data Exploration | SQL Business Case Studies *(Coming Soon)* |
+| ⚙ ETL Pipeline | Python Data Engineering Project *(Coming Soon)* |
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-(iremos agregando los widgets)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dcuastumal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dcuastumal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Dcuastumal&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 📈 Profile Views
 
-LinkedIn
+<p align="center">
 
-Portfolio
+<img src="https://komarev.com/ghpvc/?username=Dcuastumal&label=Profile%20Views&color=5DA9FF&style=flat"/>
 
-Email
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/TU-LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:dacuastumal@unimayor.edu.co">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Dcuastumal">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+*"Without data, you're just another person with an opinion."*
+
+**— W. Edwards Deming**
+
+</p>
