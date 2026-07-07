@@ -45,13 +45,20 @@ I enjoy learning by building real-world projects that solve business problems th
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Advanced SQL
-- Power BI
-- Data Engineering
-- ETL Pipelines
-- Cloud Fundamentals
+<p align="center">
+
+🗄️ <b>Advanced SQL</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+📊 <b>Power BI</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+⚙️ <b>Data Engineering</b>
+
+<br><br>
+
+🔄 <b>ETL Pipelines</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+☁️ <b>Cloud Fundamentals</b>
+
+</p>
 
 ---
 
