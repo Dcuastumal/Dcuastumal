@@ -87,7 +87,7 @@ Open to collaboration, networking, and exciting data opportunities.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
+<a href="https://www.linkedin.com/in/davidcuastumal/"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
 &nbsp;&nbsp;
 <a href="mailto:dacuastumal@unimayor.edu.co"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 &nbsp;&nbsp;
