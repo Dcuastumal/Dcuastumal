@@ -86,7 +86,7 @@ I enjoy learning by building real-world projects that solve business problems th
 Open to collaboration, networking, and exciting data opportunities.
 </p>
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 
 <td align="center">
