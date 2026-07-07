@@ -31,29 +31,19 @@ I enjoy learning by building real-world projects that solve business problems th
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
+
 </p>
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,powerbi"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-</p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-### Data Analytics
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,powerbi"/>
-
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
-
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
