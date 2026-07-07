@@ -9,29 +9,33 @@
 
 <p align="center">
 
-Passionate about transforming raw data into actionable insights through analysis, visualization and automation.
+📊 Turning complex data into clear insights that drive smarter business decisions.
 
 </p>
 
 ---
 
-# 👨🏻‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Data Analyst** passionate about solving real-world business problems using data.
+I'm a Data Analyst passionate about turning raw data into meaningful insights.
 
-My current focus is building end-to-end analytical projects using **Python, SQL and Power BI**, while expanding my knowledge in **Data Engineering**.
+Currently building analytical projects with **Python**, **SQL**, and **Power BI**, while expanding my skills in **Data Engineering**.
 
-I enjoy exploring datasets, discovering patterns, and transforming information into meaningful business decisions.
+I enjoy learning by building real-world projects that solve business problems through data.
 
 ---
 
-# 🚀 Tech Stack
-
-### Languages
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,powerbi"/>
 
 </p>
 
@@ -70,9 +74,9 @@ I enjoy exploring datasets, discovering patterns, and transforming information i
 | Project | Description |
 |---------|-------------|
 | 🍽 Restaurant Customer Analysis | Exploratory Data Analysis using Python & Pandas |
-| 📈 Sales Dashboard | Interactive Power BI Dashboard *(Coming Soon)* |
-| 🗄 SQL Data Exploration | SQL Business Case Studies *(Coming Soon)* |
-| ⚙ ETL Pipeline | Python Data Engineering Project *(Coming Soon)* |
+| |  |
+|  | |
+| |  |
 
 ---
 
@@ -89,16 +93,6 @@ I enjoy exploring datasets, discovering patterns, and transforming information i
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Dcuastumal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Dcuastumal&label=Profile%20Views&color=5DA9FF&style=flat"/>
 
 </p>
 
