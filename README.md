@@ -33,17 +33,11 @@ I enjoy learning by building real-world projects that solve business problems th
 
 <br><br>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" width="48"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" width="48"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48"/>
 
 </p>
 
