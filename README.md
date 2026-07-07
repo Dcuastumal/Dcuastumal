@@ -83,18 +83,36 @@ I enjoy learning by building real-world projects that solve business problems th
 ## 🌎 Let's Connect
 
 <p align="center">
-Feel free to connect with me for collaboration, opportunities, or just to talk about data.
+Open to collaboration, networking, and exciting data opportunities.
 </p>
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>&nbsp;&nbsp;&nbsp;
+<td align="center">
+<a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
+</td>
 
-<a href="mailto:dacuastumal@unimayor.edu.co"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>&nbsp;&nbsp;&nbsp;
+<td width="30"></td>
 
-<a href="https://TU_PORTAFOLIO.com"><img src="logo.png" width="55"/></a>
+<td align="center">
+<a href="mailto:dacuastumal@unimayor.edu.co">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
+</td>
 
-</p>
+<td width="30"></td>
+
+<td align="center">
+<a href="https://TU_PORTAFOLIO.com">
+<img src="logo.png" width="55"/>
+</a>
+</td>
+
+</tr>
+</table>
 
 ---
 
