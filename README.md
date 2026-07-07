@@ -67,9 +67,6 @@ I enjoy learning by building real-world projects that solve business problems th
 | Project | Description |
 |---------|-------------|
 | 🍽 Restaurant Customer Analysis | Exploratory Data Analysis using Python & Pandas |
-| |  |
-|  | |
-| |  |
 
 ---
 
