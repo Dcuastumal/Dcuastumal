@@ -80,17 +80,15 @@ I enjoy learning by building real-world projects that solve business problems th
 
 ---
 
-# 🌎 Connect With Me
+## 🌎 Let's Connect
 
 <p align="center">
 
 Feel free to connect with me for collaboration, opportunities, or just to talk about data.
 
-</p>
+<br><br>
 
-<p align="center">
-
-<a href="LINKEDIN">
+<a href="https://www.linkedin.com/in/david-alejandro-cuastumal-bucheli-b0b21b221">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
@@ -102,8 +100,8 @@ Feel free to connect with me for collaboration, opportunities, or just to talk a
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="TU_PORTFOLIO">
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45"/>
+<a href="https://TU_PORTAFOLIO.com">
+<img src="assets/logo.png" width="55"/>
 </a>
 
 </p>
