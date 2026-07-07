@@ -95,12 +95,11 @@ Feel free to connect with me for collaboration, opportunities, or just to talk a
 <a href="https://TU_PORTAFOLIO.com"><img src="logo.png" width="55"/></a>
 
 </p>
+
 ---
 
-</p align="center">
+<p align="center">
 
-*"Without data, you're just another person with an opinion."*
-
-**— W. Edwards Deming**
+<i>Transforming curiosity into data-driven solutions.</i>
 
 </p>
