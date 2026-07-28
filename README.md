@@ -64,9 +64,10 @@ I enjoy learning by building real-world projects that solve business problems th
 
 # 📂 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🍽 Restaurant Customer Analysis | Exploratory Data Analysis using Python & Pandas |
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| 🚛 FleetLogix | PostgreSQL · SQL · Python · Snowflake · AWS | End-to-End Data Engineering project covering data generation, ETL pipelines, data warehousing, and cloud architecture. |
+| 🍽 Restaurant Customer Analysis | Python · Pandas · Matplotlib | Exploratory Data Analysis (EDA) focused on customer behavior, data cleaning, visualization, and business insights. |
 
 ---
 
